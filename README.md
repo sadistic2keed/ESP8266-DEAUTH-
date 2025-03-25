@@ -15,16 +15,17 @@ A tool that deauthenticates 2.4GHz WiFi networks over a serial console.
 2. Install it.
 3. Go to `File` → `Preferences` → `Additional Boards Manager URLs`.
 4. Paste the following link :
+   
    ```
    https://raw.githubusercontent.com/SpacehuhnTech/arduino/main/package_spacehuhn_index.json
    ```
-5. Click on `OK`.
-6. Go to `Tools` → `Board` → `Board Manager`.
-7. Wait for sometimes and search `deauther` by `Spacehuhn Technologies`.
-8. Simply install it.
-9. Wait for sometime and after that it is installed.
-10. Restart the Arduino IDE.
-11. Done!
+6. Click on `OK`.
+7. Go to `Tools` → `Board` → `Board Manager`.
+8. Wait for sometimes and search `deauther` by `Spacehuhn Technologies`.
+9. Simply install it.
+10. Wait for sometime and after that it is installed.
+11. Restart the Arduino IDE.
+12. Done!
 
 # Install
 ## Via Arduino IDE
@@ -39,7 +40,7 @@ A tool that deauthenticates 2.4GHz WiFi networks over a serial console.
 8. Done!
 ## Via ESP8266 Flasher
 1. Download the NodeMCU ESP8266 Flasher from [here](https://github.com/nodemcu/nodemcu-flasher) according to your operating system.
-2. Download the `.bin` file from.
+2. Download the `.bin` file from [here](https://github.com/wirebits/CLI-Deauther/releases/download/v1.0.0/CLI-Deauther.bin).
 3. Open NodeMCU ESP8266 Flasher.
 4. Select the correct port number of that board.
 5. Click on `Advanced` Tab.
