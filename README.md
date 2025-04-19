@@ -3,6 +3,7 @@ A tool that deauthenticates 2.4GHz WiFi networks over a serial console.
 
 # Key Features
 - Simple Setup.
+- LED flickers when deauth started on selected network.
 - Easy to manage.
 
 # Supported Board
