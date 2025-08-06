@@ -1,8 +1,3 @@
-/*
- * Deauthentication Header File
- * Author - WireBits
- */
-
 #ifndef DEAUTH_H
 #define DEAUTH_H
 

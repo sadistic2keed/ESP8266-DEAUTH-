@@ -1,8 +1,3 @@
-/*
- * Deauthentication CPP File
- * Author -  WireBits
- */
-
 #include "deauth.h"
 
 extern struct WiFiNetwork {

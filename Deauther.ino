@@ -1,9 +1,3 @@
-/*
- * CLI-Deauther
- * A tool that deauthenticates 2.4GHz WiFi networks over a serial console.
- * Author - WireBits
- */
-
 #include "deauth.h"
 #include <ESP8266WiFi.h>
 
