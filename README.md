@@ -52,7 +52,7 @@ A powerful tool that deauthenticates 2.4GHz WiFi networks through a serial conso
 4. ✅ When you see: `Connected! Go On!`, you're ready!
 
    * ❌ If not, repeat steps 2 and 3.
-5. ⌨️ Type `help` to see all available commands.
+5. ⌨️ Type `help` to see available commands.
 
 ---
 
